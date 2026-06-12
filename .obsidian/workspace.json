@@ -164,9 +164,19 @@
               "icon": "lucide-list",
               "title": "4.OpenFeign配置 的大纲"
             }
+          },
+          {
+            "id": "8ccaaaf96b054ae8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
