@@ -11,3 +11,5 @@
 | 微服务 | - | 2.Maven多模块项目配置 | `知识库/微服务/2.Maven多模块项目配置.md` |
 | 微服务 | - | 3.Consul配置 | `知识库/微服务/3.Consul配置.md` |
 | 微服务 | - | 4.OpenFeign配置 | `知识库/微服务/4.OpenFeign配置.md` |
+| Git | - | 1.Git版本控制 | `知识库/Git/1.Git版本控制.md` |
+| Git | - | 2.Git安装配置 | `知识库/Git/2.Git安装配置.md` |
