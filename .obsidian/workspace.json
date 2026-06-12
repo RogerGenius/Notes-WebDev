@@ -164,19 +164,9 @@
               "icon": "lucide-list",
               "title": "4.OpenFeign配置 的大纲"
             }
-          },
-          {
-            "id": "94b47185b0ffb2eb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a1060db566d4923",
+  "active": "16715bdf3cb1be22",
   "lastOpenFiles": [
+    "temp/Git版本控制-笔记.md",
+    "temp/Git版本控制-笔记.md.tmp.24176.40edda6c97b4",
     "未命名.base",
     "gitignore.txt",
     "新建文件夹",
@@ -211,7 +203,6 @@
     "知识库/02_前端/CSS/CSS笔记.md",
     "wiki/hot.md.tmp.28796.f5ff20b78007",
     "wiki/log.md.tmp.28796.35828eac298e",
-    "wiki/domains/基础与前端.md.tmp.28796.f1267c4c742a",
     "知识库/02_前端/HTML/assets/image-20210812224152747.png",
     "知识库/02_前端/HTML/assets/image-20210812223956360.png",
     "知识库/02_前端/HTML/assets/image-20210812223744522.png",
@@ -222,7 +213,6 @@
     "知识库/02_前端/HTML/assets/image-20210812222334790.png",
     "知识库/02_前端/HTML/assets/image-20210812221801965.png",
     "知识库/02_前端/HTML/assets/image-20210812221656295.png",
-    "知识库/02_前端/HTML/assets",
     "CLAUDE.md",
     "claude-obsidian-main/wiki/sources/_index.md",
     "claude-obsidian-main/wiki/sources/claude-obsidian-ecosystem-research.md",
