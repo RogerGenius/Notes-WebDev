@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82d267c313a35ff2",
+        "id": "1af3fc3763d6f897",
         "type": "tabs",
         "children": [
           {
-            "id": "8a1060db566d4923",
+            "id": "4fb69197db84121f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,8 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ccaaaf96b054ae8",
+  "active": "4fb69197db84121f",
   "lastOpenFiles": [
+    "知识库/Git/1.Git版本控制.md",
+    "temp/Spring Cloud Gateway配置.md",
+    "temp/Spring Cloud Gateway配置.md.tmp.24176.ff8866404607",
+    "temp/Hystrix配置.md",
+    "temp/Hystrix配置.md.tmp.24176.fc1a105b9227",
+    "temp/服务降级与API网关.md",
+    "temp/服务降级与API网关.md.tmp.24176.74d0717a8f79",
     "config/INDEX.md.tmp.24176.bc5b8177b5dd",
     "知识库/微服务/5.Spring Cloud Consul配置.md",
     "知识库/微服务/6.OpenFeign配置.md",
@@ -207,12 +214,8 @@
     "知识库/微服务/3.Consul服务治理.md",
     "知识库/微服务/4.Consul配置.md",
     "_backup_tmp.mjs",
-    "_backup_tmp.mjs.tmp.24176.c404382c75a7",
     "temp/Spring Cloud Consul配置.md",
-    "temp/Spring Cloud Consul配置.md.tmp.24176.08f623253676",
     "temp/Consul服务治理-笔记.md",
-    "temp/Consul服务治理-笔记.md.tmp.24176.16a2b7003bfd",
-    "gitignore.txt",
     "CLAUDE.md",
     "temp/Git安装配置.md",
     "temp/Git版本控制-笔记.md",
@@ -235,9 +238,6 @@
     "claude-obsidian-main/wiki/sources/_index.md",
     "claude-obsidian-main/wiki/sources/claude-obsidian-ecosystem-research.md",
     "claude-obsidian-main/wiki/questions/How does the LLM Wiki pattern work.md",
-    "claude-obsidian-main/wiki/references/transport-fallback.md",
-    "claude-obsidian-main/wiki/references/methodology-modes.md",
-    "claude-obsidian-main/wiki/meta/tiling-report-2026-04-24.md",
     "claude-obsidian-main/wiki/canvases/youtube-explainer.canvas",
     "claude-obsidian-main/wiki/canvases/welcome.canvas",
     "claude-obsidian-main/wiki/canvases/main.canvas",
