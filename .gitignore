@@ -1,5 +1,6 @@
 # 目录
 temp/
+.claude/
 
 # 文件
 .obsidian/workspace.json
