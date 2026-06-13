@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1af3fc3763d6f897",
+        "id": "593f08a710a82fb0",
         "type": "tabs",
         "children": [
           {
-            "id": "4fb69197db84121f",
+            "id": "521f8abb39ddb997",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/微服务/4.OpenFeign配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.OpenFeign配置 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -190,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fb69197db84121f",
+  "active": "521f8abb39ddb997",
   "lastOpenFiles": [
+    "知识库/Elasticsearch/1.Elasticsearch全文搜索引擎入门.md",
+    "知识库/Elasticsearch/5.SpringBoot整合Elasticsearch.md",
     "知识库/Git/1.Git版本控制.md",
     "temp/Spring Cloud Gateway配置.md",
     "temp/Spring Cloud Gateway配置.md.tmp.24176.ff8866404607",
@@ -236,8 +237,6 @@
     "知识库/02_前端/HTML/assets/image-20210812221801965.png",
     "知识库/02_前端/HTML/assets/image-20210812221656295.png",
     "claude-obsidian-main/wiki/sources/_index.md",
-    "claude-obsidian-main/wiki/sources/claude-obsidian-ecosystem-research.md",
-    "claude-obsidian-main/wiki/questions/How does the LLM Wiki pattern work.md",
     "claude-obsidian-main/wiki/canvases/youtube-explainer.canvas",
     "claude-obsidian-main/wiki/canvases/welcome.canvas",
     "claude-obsidian-main/wiki/canvases/main.canvas",

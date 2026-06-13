@@ -1,2 +1,6 @@
 # 目录
 temp/
+
+# 文件
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
