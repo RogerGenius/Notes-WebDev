@@ -11,7 +11,14 @@
 | 微服务 | - | 2.Maven多模块项目配置 | `知识库/微服务/2.Maven多模块项目配置.md` |
 | 微服务 | - | 3.Consul服务治理 | `知识库/微服务/3.Consul服务治理.md` |
 | 微服务 | - | 4.Consul安装配置 | `知识库/微服务/4.Consul安装配置.md` |
-| 微服务 | - | 5.Spring Cloud Consul配置 | `知识库/微服务/5.Spring Cloud Consul配置.md` |
-| 微服务 | - | 6.OpenFeign配置 | `知识库/微服务/6.OpenFeign配置.md` |
+| 微服务 | - | 5.Consul整合Spring Cloud配置 | `知识库/微服务/5.Consul整合Spring Cloud配置.md` |
+| 微服务 | - | 6.OpenFeign整合Spring Cloud配置 | `知识库/微服务/6.OpenFeign整合Spring Cloud配置.md` |
+| 微服务 | - | 7.Hystrix服务降级与熔断 | `知识库/微服务/7.Hystrix服务降级与熔断.md` |
+| 微服务 | - | 8.Hystrix整合Spring Cloud配置 | `知识库/微服务/8.Hystrix整合Spring Cloud配置.md` |
+| 微服务 | - | 9.Spring Cloud Gateway配置 | `知识库/微服务/9.Spring Cloud Gateway配置.md` |
+| 微服务 | - | 10.Nacos服务注册与发现 | `知识库/微服务/10.Nacos服务注册与发现.md` |
+| 微服务 | - | 11.Nacos安装配置 | `知识库/微服务/11.Nacos安装配置.md` |
+| 微服务 | - | 12.Nacos整合Spring Cloud配置 | `知识库/微服务/12.Nacos整合Spring Cloud配置.md` |
+| 微服务 | - | 13.Nacos Config整合Spring Cloud配置 | `知识库/微服务/13.Nacos Config整合Spring Cloud配置.md` |
 | Git | - | 1.Git版本控制 | `知识库/Git/1.Git版本控制.md` |
 | Git | - | 2.Git安装配置 | `知识库/Git/2.Git安装配置.md` |
